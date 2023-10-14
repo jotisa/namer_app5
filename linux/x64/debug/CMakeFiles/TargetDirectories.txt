@@ -1,0 +1,14 @@
+/home/jonatant/Devel/Flutter_projjects/namer_app5/namer_app5/build/linux/x64/debug/CMakeFiles/namer_app5.dir
+/home/jonatant/Devel/Flutter_projjects/namer_app5/namer_app5/build/linux/x64/debug/CMakeFiles/edit_cache.dir
+/home/jonatant/Devel/Flutter_projjects/namer_app5/namer_app5/build/linux/x64/debug/CMakeFiles/rebuild_cache.dir
+/home/jonatant/Devel/Flutter_projjects/namer_app5/namer_app5/build/linux/x64/debug/CMakeFiles/list_install_components.dir
+/home/jonatant/Devel/Flutter_projjects/namer_app5/namer_app5/build/linux/x64/debug/CMakeFiles/install.dir
+/home/jonatant/Devel/Flutter_projjects/namer_app5/namer_app5/build/linux/x64/debug/CMakeFiles/install/local.dir
+/home/jonatant/Devel/Flutter_projjects/namer_app5/namer_app5/build/linux/x64/debug/CMakeFiles/install/strip.dir
+/home/jonatant/Devel/Flutter_projjects/namer_app5/namer_app5/build/linux/x64/debug/flutter/CMakeFiles/flutter_assemble.dir
+/home/jonatant/Devel/Flutter_projjects/namer_app5/namer_app5/build/linux/x64/debug/flutter/CMakeFiles/edit_cache.dir
+/home/jonatant/Devel/Flutter_projjects/namer_app5/namer_app5/build/linux/x64/debug/flutter/CMakeFiles/rebuild_cache.dir
+/home/jonatant/Devel/Flutter_projjects/namer_app5/namer_app5/build/linux/x64/debug/flutter/CMakeFiles/list_install_components.dir
+/home/jonatant/Devel/Flutter_projjects/namer_app5/namer_app5/build/linux/x64/debug/flutter/CMakeFiles/install.dir
+/home/jonatant/Devel/Flutter_projjects/namer_app5/namer_app5/build/linux/x64/debug/flutter/CMakeFiles/install/local.dir
+/home/jonatant/Devel/Flutter_projjects/namer_app5/namer_app5/build/linux/x64/debug/flutter/CMakeFiles/install/strip.dir
